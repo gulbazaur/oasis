@@ -17,7 +17,7 @@ export default function Home() {
         <div className="flex items-center justify-center mb-6">
           <Shield size={48} className="text-blue-600" />
         </div>
-        <h1 className="text-4xl font-bold text-center mb-4">OASIS Spielersperre</h1>
+        <h1 className="text-4xl font-bold text-center mb-4">12323131OASIS Spielersperre</h1>
         <img
           src="https://images.unsplash.com/photo-1518133683791-0b9de5a055f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
           alt="OASIS Spielerschutz System"
